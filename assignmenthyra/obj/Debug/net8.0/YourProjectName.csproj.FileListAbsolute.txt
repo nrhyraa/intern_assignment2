@@ -1,0 +1,14 @@
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\bin\Debug\net8.0\YourProjectName.exe
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\bin\Debug\net8.0\YourProjectName.deps.json
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\bin\Debug\net8.0\YourProjectName.runtimeconfig.json
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\bin\Debug\net8.0\YourProjectName.dll
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\bin\Debug\net8.0\YourProjectName.pdb
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.GeneratedMSBuildEditorConfig.editorconfig
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.AssemblyInfoInputs.cache
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.AssemblyInfo.cs
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.csproj.CoreCompileInputs.cache
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.dll
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\refint\YourProjectName.dll
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.pdb
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\YourProjectName.genruntimeconfig.cache
+d:\Users\User\Desktop\internship\intern-classroom\assignment\assignment2\assignmenthyra\obj\Debug\net8.0\ref\YourProjectName.dll
