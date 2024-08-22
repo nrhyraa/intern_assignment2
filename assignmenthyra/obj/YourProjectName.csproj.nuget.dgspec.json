@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "d:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj": {}
+    "D:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj": {}
   },
   "projects": {
-    "d:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj": {
+    "D:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "d:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj",
+        "projectUniqueName": "D:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj",
         "projectName": "YourProjectName",
-        "projectPath": "d:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj",
+        "projectPath": "D:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\YourProjectName.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "d:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\obj\\",
+        "outputPath": "D:\\Users\\User\\Desktop\\internship\\intern-classroom\\assignment\\assignment2\\assignmenthyra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
